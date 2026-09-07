@@ -1,5 +1,3 @@
-# SOFTWARE-ENGINEEERING
-
 ### JIRA STATUS AND ITS MEANING
 
 ### BUG
@@ -28,3 +26,25 @@
 | **6** | Testing | In Progress | Changes are being tested/verified. ← current status |
 | **7** | Release Pending | Done | Work is complete and verified, but not yet deployed/released to customers. |
 | **8** | Closed | Done | Fully finished — resolution is correct, no further work needed. Can be reopened if necessary. |
+
+### STORY
+
+## 1. 🔵 To Do Category
+Statuses in this category represent work that hasn't started active development yet.
+
+* **New:** The story has just been created. It serves as an initial placeholder before being categorized or refined.
+* **Planning:** Team members and stakeholders are collaborating to define requirements, scope, and technical details before commitment.
+* **To Do:** The story is fully refined, estimated, and prioritized in the backlog, ready to be picked up in a sprint.
+
+## 2. 🟡 In Progress Category
+Statuses in this category represent work currently underway in development, review, or testing.
+
+* **In Progress:** Active code implementation or design work is being performed by the developer/assignee.
+* **Dev Complete:** Code development is finished, PRs are merged, and the feature is awaiting QE/QA validation.
+* **Testing:** Quality Engineering or testing teams are validating the changes against test cases (e.g., executing verification steps and Polarion test cases).
+
+## 3. 🟢 Done Category
+Statuses in this category represent completed work.
+
+* **Release Pending:** Development and testing are complete, and the work is waiting to be shipped in an upcoming version release (e.g., OADP 1.5.8).
+* **Closed / Done:** The story is fully delivered, verified, and closed with an appropriate resolution.
