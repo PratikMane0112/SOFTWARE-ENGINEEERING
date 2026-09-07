@@ -46,5 +46,5 @@ Statuses in this category represent work currently underway in development, revi
 ## 3. 🟢 Done Category
 Statuses in this category represent completed work.
 
-* **Release Pending:** Development and testing are complete, and the work is waiting to be shipped in an upcoming version release (e.g., OADP 1.5.8).
+* **Release Pending:** Development and testing are complete, and the work is waiting to be shipped in an upcoming version release.
 * **Closed / Done:** The story is fully delivered, verified, and closed with an appropriate resolution.
