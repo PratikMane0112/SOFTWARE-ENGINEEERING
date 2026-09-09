@@ -11,7 +11,7 @@
 | **5** | ON_QA | In Progress | Fix is available in a build and ready for QE verification/testing. |
 | **6** | Verified | Done | QE has verified the fix works as expected. The bug is confirmed resolved. |
 | **7** | Release Pending | Done | Fix is verified but not yet deployed/released to customers. |
-| **8** | Closed | Done | Fully finished — resolution is correct, no further work needed. Can be reopened if necessary. |
+| **8** | Closed | Done | Fully finished resolution is correct, no further work needed. Can be reopened if necessary. |
 | **9** | Failed QA | In Progress | QE verification failed — the fix doesn't work as expected. Goes back to dev for rework. |
 
 ### SUB TASK 
